@@ -4,6 +4,10 @@
 - [Youtube影片-國立台北科技大學電子系甲組專題競賽 : 無人機演算法遊戲](https://www.youtube.com/watch?v=XH6Vsn7Jog4&list=PLNxqkaHPXR9WFuSKYAWhDxmmxjgrUtjN-&ab_channel=%E5%8A%89%E5%A8%81%E5%93%A5)
 
 ## 組員
+- 指導教授 賴冠廷 
+- 訓四子四 107362535 王維澤
+- 訓四子四 107362533 劉秉憲
+- 訓四子四 107362534 陳又嘉
 ## 主要特點
 
 - **高度逼真的渲染**：UE4 以其高品質的圖形渲染而聞名，Drone 模擬器可以生成逼真的無人機模型和環境，使您的場景看起來更加真實。
